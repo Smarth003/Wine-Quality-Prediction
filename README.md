@@ -1,0 +1,2 @@
+# Wine-Quality-Prediction
+This is a Machine Learning model to predict the quality of wine using logistic regression. Logistic regression is a statistical and machine learning model used for binary classification tasks, which involve predicting one of two possible outcomes. At the end, we also used KNN model to compare the accuracy of the KNN model with Logistic Regression model and came to the conclusion than logistic regression model had slightly better accuracy than KNN model in this case.
